@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa5c7807-2ce0-4616-9fdd-48a7b6648f71" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Spell.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Campaign.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SpellComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Dm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Act.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/BasicInformation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/InitiativeOrder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Permission.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Combat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/PlayerCombatStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/User.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Campaing.cs" />
+        <option value="$PROJECT_DIR$/src/InitiativeOrder.cs" />
+        <option value="$PROJECT_DIR$/src/MonsterDamageTaken.cs" />
+        <option value="$PROJECT_DIR$/src/Cambat.cs" />
+        <option value="$PROJECT_DIR$/src/PlayerDamageTaken.cs" />
+        <option value="$PROJECT_DIR$/src/CombatPlayerStats.cs" />
+        <option value="$PROJECT_DIR$/src/Magic.cs" />
+        <option value="$PROJECT_DIR$/src/SpellComponent.cs" />
+        <option value="$PROJECT_DIR$/src/PlayerCombatStats.cs" />
+        <option value="$PROJECT_DIR$/src/Acts.cs" />
+        <option value="$PROJECT_DIR$/src/Permissions.cs" />
+        <option value="$PROJECT_DIR$/src/Permission.cs" />
+        <option value="$PROJECT_DIR$/src/BasicInformation.cs" />
+        <option value="$PROJECT_DIR$/src/Dm.cs" />
+        <option value="$PROJECT_DIR$/src/Combat.cs" />
+        <option value="$PROJECT_DIR$/src/Spell.cs" />
+        <option value="$PROJECT_DIR$/src/User.cs" />
+        <option value="$PROJECT_DIR$/src/Campaign.cs" />
+        <option value="$PROJECT_DIR$/src/Act.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WH6bJ5Y9GLd0qDqmKIXZDuFEC6" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa5c7807-2ce0-4616-9fdd-48a7b6648f71" name="Default Changelist" comment="" />
+      <created>1578794243035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578794243035</updated>
+      <workItem from="1578794244563" duration="4439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+</project>

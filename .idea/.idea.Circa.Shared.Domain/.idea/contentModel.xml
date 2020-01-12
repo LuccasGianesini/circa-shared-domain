@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Lucca\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Lucca\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Circa.Shared.Domain.440405241.00" t="ExcludeRecursive" />
+    <e p="K:\git\circa-shared-domain" t="IncludeFlat">
+      <e p="Circa.Shared.Domain.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="src" t="IncludeRecursive">
+        <e p="Act.cs" t="Include" />
+        <e p="BasicInformation.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Campaign.cs" t="Include" />
+        <e p="Circa.Shared.Domain.csproj" t="IncludeRecursive" />
+        <e p="Combat.cs" t="Include" />
+        <e p="Dm.cs" t="Include" />
+        <e p="InitiativeOrder.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Circa.Shared.Domain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Permission.cs" t="Include" />
+        <e p="PlayerCombatStats.cs" t="Include" />
+        <e p="Spell.cs" t="Include" />
+        <e p="SpellComponent.cs" t="Include" />
+        <e p="User.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
